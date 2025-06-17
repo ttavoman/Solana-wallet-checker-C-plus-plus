@@ -115,4 +115,6 @@ Use the command line:
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  Monday 16 June 2025 Resolved dead links in migration guide
+
+
+Update:  17 June url is now responsive and live
